@@ -1,4 +1,4 @@
-# Grand Unified Visualization & Scientific Engine
+# Fast Vector Signal Classification Engine 
 
 A **single** Python/Flask application that integrates:
 
